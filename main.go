@@ -47,8 +47,6 @@ func Init_Processor(processor_name string) {
 // fmt.Printf("\n\n Test Case to be processed: %s\n\n", cmdArgs[2])
 // "github.com/Shinz9474/InsightAps/DataProcessor/Processors"
 
-// test_string := "ROU_QA_Samsung_Smoke_CODTest"
-
 // test_strings := strings.Split(test_string, "_")
 
 // fmt.Printf("Test_strings: %v", test_strings)
